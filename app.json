@@ -2,7 +2,7 @@
   "name": "jy-bot",
   "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/JYBriggitt/jy-bot",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
+  "logo": "https://i.ibb.co/qmJN13Z/36113cd844f5724dfcadbf729b7608ea.jpg?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
