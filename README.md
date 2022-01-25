@@ -40,7 +40,7 @@ heroku/nodejs
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/JYBriggitt/blob/master/settings.json#L10)
+- CHANGE OWNER NUMBER [Here](https://github.com/JYBriggitt/jy-bot/blob/master/settings.json#L10)
 - CHANGE OWNER NAME [Here](https://github.com/JYBriggitt/jy-bot/blob/master/settings.json#L12)
 
 # Installation
