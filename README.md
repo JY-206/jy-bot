@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://pin.it/3kcc34P?format=jpg&name=900x900" alt="JY" width="170" />
 
 ## Doge Bot V2
 
