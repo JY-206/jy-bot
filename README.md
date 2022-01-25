@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JYBriggitt/jy-botTest/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,40 +36,40 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/JYBriggitt/jy-bot/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/JYBriggitt/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/JYBriggitt/jy-bot/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot2
-🦄 npm start
+♠ git clone https://github.com/JYBriggitt/jy-bot.git
+♠ cd DogeBot2
+♠ npm start
 ```
 ## For Termux
 ```bash
-🦄 apt update
-🦄 apt upgrade
-🦄 pkg update && pkg upgrade 
-🦄 pkg install hot
-🦄 pkg install bash
-🦄 pkg install libwebp
-🦄 pkg install git -y
-🦄 pkg install nodejs -y 
-🦄 pkg install ffmpeg -y 
-🦄 pkg install wget
-🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot2
-🦄 cd DogeBot2
-🦄 ls
-🦄 rm -rf session.json
-🦄 npm install
-🦄 npm start
-🦄 scan qr code within 15seconds
+♠ apt update
+♠ apt upgrade
+♠ pkg update && pkg upgrade 
+♠ pkg install hot
+♠ pkg install bash
+♠ pkg install libwebp
+♠ pkg install git -y
+♠ pkg install nodejs -y 
+♠ pkg install ffmpeg -y 
+♠ pkg install wget
+♠ pkg install imagemagick -y
+♠ git clone https://github.com/DGXeon/DogeBot2
+♠ cd DogeBot2
+♠ ls
+♠ rm -rf session.json
+♠ npm install
+♠ npm start
+🦄♠ scan qr code within 15seconds
 ```
 ## `Installation Video`
 - Review video [Click here](https://youtu.be/zXvwqA8LvTw)
