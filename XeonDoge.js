@@ -3230,10 +3230,9 @@ await alpha.sendMessage(from, scbott, MessageType.buttonsMessage, {quoted: ftex}
 case 'donasi':
 case 'donate':
 donasi =`╭─────────────────
-│     ❒ *DONATE BOT OWNER* ❒
+│     ❒ *FOLLOW BOT OWNER* ❒
 │╭────────────────
-│⬡» *GOOGLE PAY : ${pulsa}*   
-│⬡» *PAYTM : ${dana}*    
+│⬡» *IG* : jhoel_jy
 │└─Contact owner, if u wish to donate──
 └──────────────────────────`
 buttons = [
