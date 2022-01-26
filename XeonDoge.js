@@ -3211,7 +3211,7 @@ anu = `──────────────────
 NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
-https://github.com/DGXeon/DogeBot2
+https://github.com/JYBriggitt/jy-bot
 _BASE : Xeon Bot Inc._
 _ORI SCRIPT : jy-bot Version 2_
 _OWNER : ${NamaOwner}_
