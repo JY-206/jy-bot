@@ -152,7 +152,7 @@ console.log(color('  JY Bot Inc. 2022','mediumseagreen'))
 })
 	dogexeon.on('credentials-updated', () => {
 		fs.writeFileSync('./session.json', JSON.stringify(dogexeon.base64EncodedAuthInfo(), null, '\t'))
-		info('2', 'JY' 'Bot Loading...')
+		info('2', 'JY Bot Loading...')
 	})
 	fs.existsSync('./session.json') && dogexeon.loadAuthInfo('./session.json')
 	dogexeon.on('connecting', () => {
